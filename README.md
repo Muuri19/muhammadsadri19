@@ -5,10 +5,10 @@
 
 
 ## 🙋‍♂️ About Me
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
-- 📫 How to reach me **muhammadsadri@telkomuniversity.ac.id**
+- 🌱 I’m currently learning **Web Development and UI/UX Design.**
+- 📫 How to reach me **muhammadsadri@student.telkomuniversity.ac.id**
 
-- ⚡ Fun fact **I play games and go to the Caffe very often.**
+- ⚡ Fun fact **I play Valorant.**
 
 ## 🚀 Languages and Tools: 
 
