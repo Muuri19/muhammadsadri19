@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🌱 I’m currently learning **Web Dev**<br><br>- 📝 Come see me on https://linktr.ee/muhammadsadri<br><br>- 📫 How to reach me muhammadsadri@student.telkomuniversity.ac.id<br><br>- ⚡ Fun fact Streaming Valorant on TikTok
+- 🌱 I’m currently learning **Web Dev**<br><br>- 📝 Come see me on https://linktr.ee/muuri._<br><br>- 📫 How to reach me muhammadsadri@student.telkomuniversity.ac.id<br><br>- ⚡ Fun fact Streaming Valorant on TikTok
 
 
 ## 🌐 Socials:
