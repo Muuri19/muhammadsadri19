@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Sadri</h1>
+<h1 align="center">Hi 👋, I'm Muuri</h1>
 <h3 align="center">I am someone who enjoys learning about Cyber Security</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadsadri19&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadsadri19" /> </p>
