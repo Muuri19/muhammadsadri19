@@ -2,8 +2,8 @@
 
 ## About Me
 
-- 💵 Currently working on [✅Worki App Mobile v2](https://play.google.com/work/apps/details?id=id.diarium_mobile)
-- 🧑‍💻 Interning as **📑Quality Assurance Specialist**
+- 💵 Currently working on [✅Worki by Telkom Indonesia](https://play.google.com/work/apps/details?id=id.diarium_mobile)
+- 🧑‍💻 Interning as **📑Mobile Dev**
 - 💵 Manager of [✅Scholarship4us](https://scholarship4us.com/)
 - 🧑‍💻 Learning **🤖Cyber Security Tools**
 - 📫 How to reach me: **muhammadsadry19@gmail.com**
@@ -13,7 +13,7 @@
 ## Connect with Me
 
 - [LinkedIn](https://linkedin.com/in/muhammad-sadri)
-- [Instagram](https://instagram.com/muhammadsadri19)
+- [Instagram](https://instagram.com/muuri._)
 - [YouTube](https://www.youtube.com/c/muuri._)
 
 ## Languages and Tools
