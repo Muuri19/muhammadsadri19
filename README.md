@@ -16,7 +16,9 @@
 - `GITHUB` : [Muuri](https://github.com/muhammadsadri19/)
 
 ## Languages and Tools
-`Kotlin`, `Dart`, `Java`, `Python`
+**`Kotlin`**, **`Dart`**, **`Java`**, **`Python`**
+
+---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadsadri19&show_icons=true&locale=en&layout=compact" alt="muhammadsadri19" /></p> 
 
