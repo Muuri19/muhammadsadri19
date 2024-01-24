@@ -11,9 +11,9 @@
 - ⚡ Fun fact: **I think I'm a very fun person**
 
 ## Connect with Me
-- `LINKEDIN` : [Muhammad Sadri](https://linkedin.com/in/muhammad-sadri)
-- `INSTAGRAM` : [muuri](https://instagram.com/muuri._)
-- `GITHUB` : [Muuri](https://github.com/muhammadsadri19/)
+- `LINKEDIN` : [***Muuri***](https://linkedin.com/in/muhammad-sadri)
+- `INSTAGRAM` : [***Muuri***](https://instagram.com/muuri._)
+- `GITHUB` : [***Muuri***](https://github.com/muhammadsadri19/)
 
 ## Languages and Tools
 **`Kotlin`**, **`Dart`**, **`Java`**, **`Python`**
