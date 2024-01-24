@@ -1,3 +1,5 @@
+![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/muhammadsadri19/muhammadsadri19/assets/91242566/29c7fee5-5e4a-45ca-98fd-81d4e9d637f0)
+
 # Hi there! <img src="/images/good.png" alt="good" width="100"/> I'm Muuri 
 > **アニメを見るのが大好きなソフトウェア・エンジニア！**
 ## About Me
