@@ -22,7 +22,7 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadsadri19&show_icons=true&locale=en&layout=compact" alt="muhammadsadri19" /></p> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsadri19&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="muhammadsadri19" /></p> 
 
 `You can order the source code here` :   [Code](https://api.whatsapp.com/send?phone=6282268215563)
 
