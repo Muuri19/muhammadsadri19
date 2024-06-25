@@ -15,14 +15,14 @@
 ## Connect with Me
 - `LINKEDIN` : [***Muuri***](https://linkedin.com/in/muhammad-sadri)
 - `INSTAGRAM` : [***Muuri***](https://instagram.com/muuri._)
-- `GITHUB` : [***Muuri***](https://github.com/muhammadsadri19/)
+- `GITHUB` : [***Muuri***](https://github.com/Muuri19/)
 
 ## Languages and Tools
 **`Kotlin`**, **`Dart`**, **`Java`**, **`Python`**
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsadri19&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="muhammadsadri19" /></p> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muuri19&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Muuri19" /></p> 
 
 `You can order the source code here` :   [Code](https://api.whatsapp.com/send?phone=6282268215563)
 
